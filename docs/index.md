@@ -6,25 +6,7 @@
   <a href="https://marketplace.visualstudio.com/items?itemName=tboby.cwtools-vscode" target="_blank">Download</a>
 </h3>
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+<div style="height:50%"><hr></div>
 
 ## Features
 
