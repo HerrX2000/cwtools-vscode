@@ -1,17 +1,19 @@
-<h3 align="center">
-  <a href="https://herrx2000.github.io/cwtools-vscode/getting-started" style="color:#FF0000;">Get started</a>
-  <span> · </span>
-  <a href="https://herrx2000.github.io/cwtools-vscode/projects">Supported games</a>
-  <span> · </span>
-  <a href="https://herrx2000.github.io/cwtools-vscode/contribute">Contribute</a>
-  <span> · </span>
-  <a href="https://herrx2000.github.io/cwtools-vscode/community">Community</a>
-</h3>
-<h3 align="center" style="color:#40a2f2;">
-  <a href="https://marketplace.visualstudio.com/items?itemName=tboby.cwtools-vscode" target="_blank">Download Extension</a>
-  <span> · </span>
-  <a href="https://code.visualstudio.com/" target="_blank">Download VS Code</a>
-</h3>
+<div style="margin-left:-100px; margin-right: -100px;">
+  <h3 align="center">
+    <a href="https://herrx2000.github.io/cwtools-vscode/getting-started" style="color:#FF0000;">Get started</a>
+    <span> · </span>
+    <a href="https://herrx2000.github.io/cwtools-vscode/projects">Supported games</a>
+    <span> · </span>
+    <a href="https://herrx2000.github.io/cwtools-vscode/contribute">Contribute</a>
+    <span> · </span>
+    <a href="https://herrx2000.github.io/cwtools-vscode/community">Community</a>
+  </h3>
+  <h3 align="center" style="color:#40a2f2;">
+    <a href="https://marketplace.visualstudio.com/items?itemName=tboby.cwtools-vscode" target="_blank">Download Extension</a>
+    <span> · </span>
+    <a href="https://code.visualstudio.com/" target="_blank">Download VS Code</a>
+  </h3>
+</div>
 
 ## Install VS Code
 1. Download and install [VS Code](https://code.visualstudio.com/). VS Code is like Notepad++ but more powerful and almost as simple to use.

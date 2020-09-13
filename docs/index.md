@@ -1,13 +1,13 @@
-<div style="background-color: #bfbfbf;padding:10px;min-height:200px;">
-  <img src="./cwtools_logo.png" style="height:180px; width:auto; float:right;">
-<h1> CW Tools </h1>
-<h3> Fun, productive, cleaner modding </h3>
-<h3 align="center">
-  <a href="https://herrx2000.github.io/cwtools-vscode/getting-started" style="color:#FF0000;padding-right:50px">Get started</a>
-  <a href="https://marketplace.visualstudio.com/items?itemName=tboby.cwtools-vscode" target="_blank">Download</a>
-</h3>
+<div class="landing_page_banner">
+  <img src="./cwtools_logo.png" class="logo">
+  <h1> CW Tools </h1>
+  <h3> Fun, productive, cleaner modding </h3>
+  <h3 align="center">
+    <a href="https://herrx2000.github.io/cwtools-vscode/getting-started" class="highlighted_button" style="padding-right:50px">Get started</a>
+    <a href="https://marketplace.visualstudio.com/items?itemName=tboby.cwtools-vscode" class="button"  target="_blank">Download</a>
+  </h3>
 </div>
-<div style="height:200px"><hr></div>
+<div style="margin-top:80px">
 
 ## Features
 
@@ -55,3 +55,5 @@
 ### Find all references
 
 ![Find all references](./findallrefs.png)
+
+</div>
