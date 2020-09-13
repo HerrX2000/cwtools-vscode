@@ -1,16 +1,32 @@
 .landing_page_banner {
     background-color: #bfbfbf;
     min-height:200px;
-    margin: spacingNone -200px spacingNone -200px;
+    margin: 0px -200px 0px -200px;
     padding: 40px 200px 40px 200px;
 }
 
-.highlighted_button {
+
+
+.Button {
+    color:#282c34;
+    background-color:#61dafb;
+    padding: .75rem 1.5rem;
+    text-align: center ;
+    font-size: 1.25rem;
+    font-weight: 400;
+    text-decoration: none !important;
+    border-bottom: none;
+    transition: all .2s ease-out;
+    max-width: 50%;
+}
+
+.Button.highlighted {
     color:#FF0000;
 }
 
-.button {
-
+.Button.highlighted:hover {
+    color:#000;
+    background-color:#fff
 }
 
 .menu {
