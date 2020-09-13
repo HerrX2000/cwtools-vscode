@@ -6,8 +6,11 @@
   <a href="https://herrx2000.github.io/cwtools-vscode/contribute">Contribute</a>
   <span> · </span>
   <a href="https://herrx2000.github.io/cwtools-vscode/community">Community</a>
+</h3>
+<h3 align="center" style="color:#40a2f2;">
+  <a href="https://marketplace.visualstudio.com/items?itemName=tboby.cwtools-vscode" target="_blank">Download Extension</a>
   <span> · </span>
-  <a href="https://marketplace.visualstudio.com/items?itemName=tboby.cwtools-vscode">Download</a>
+  <a href="https://code.visualstudio.com/" target="_blank">Download VS Code</a>
 </h3>
 
 CWTools is for the community by the community (mostly by Dayshine tho 😀). Supporting new games or updates are work with which you could help the community.
