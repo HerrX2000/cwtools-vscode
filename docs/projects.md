@@ -15,18 +15,13 @@
 
 ## Supported games
 
-* Stellaris
-* Hearts of Iron IV
-* Europa Universalis IV
-* Imperator: Rome - outdated, help needed
-* Crusader Kings II - partial
-* Crusader Kings III - in progress, help needed
 
-## Links
-* [vic2-config](https://github.com/cwtools/cwtools-vic2-config)
-* [ck2-config](https://github.com/cwtools/cwtools-ck2-config)
-* [eu4-config](https://github.com/cwtools/cwtools-eu4-config)
-* [hoi4-config](https://github.com/cwtools/cwtools-hoi4-config)
-* [stellaris-config](https://github.com/cwtools/cwtools-stellaris-config)
-* [ir-config](https://github.com/cwtools/cwtools-ir-config)
-* [ck3-config](https://github.com/cwtools/cwtools-ck3-config)
+| Game                  | Status                   | Repo                                                                    |
+|-----------------------|--------------------------|-------------------------------------------------------------------------|
+| Crusader Kings III    | in progress, help needed | [ck3-config](https://github.com/cwtools/cwtools-ck3-config)             |
+| Imperator: Rome       | outdated, help needed    | [ir-config](https://github.com/cwtools/cwtools-ir-config)               |
+| Stellaris             | ✔                        | [stellaris-config](https://github.com/cwtools/cwtools-stellaris-config) |
+| Hearts of Iron IV     | ✔                        | [hoi4-config](https://github.com/cwtools/cwtools-hoi4-config)           |
+| Europa Universalis IV | ✔                        | [eu4-config](https://github.com/cwtools/cwtools-eu4-config)             |
+| Crusader Kings II     | partial                  | [ck2-config](https://github.com/cwtools/cwtools-ck2-config)             |
+| Victoria II           | partial                  | [vic2-config](https://github.com/cwtools/cwtools-vic2-config)           |

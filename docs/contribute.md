@@ -29,3 +29,5 @@ See https://github.com/tboby/cwtools/wiki/.cwt-config-file-guidance for guidance
 
 Contributing
 If you'd like to contribute, press the pen icon on any file, then press "Create a new branch for this commit and start a pull request". You can then make further changes as a "pull request". When done, mention it in the pull request and your changes will be included.
+
+[CW Tools Wiki](https://github.com/cwtools/cwtools/wiki)
