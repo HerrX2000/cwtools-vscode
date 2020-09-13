@@ -5,7 +5,7 @@
     <h3> Fun, productive, cleaner modding </h3>
     <h3 align="center">
       <a href="https://herrx2000.github.io/cwtools-vscode/getting-started" class="Button highlighted" style="padding-right:50px">Get started</a>
-      <a href="https://marketplace.visualstudio.com/items?itemName=tboby.cwtools-vscode" class="Button"  target="_blank">Download ›</a>
+      <a href="https://marketplace.visualstudio.com/items?itemName=tboby.cwtools-vscode" class="Button"  target="_blank">Download › </a>
     </h3>
   </div>
   <div style="margin-top:80px">
