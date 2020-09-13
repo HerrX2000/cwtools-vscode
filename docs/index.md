@@ -1,7 +1,8 @@
+<div style="background-color: #bfbfbf;padding:10px;">
 # CW Tools
 ### Fun, productive, cleaner modding
-<div style="background-color: #bfbfbf;">
-  <img src="./cwtools_logo.png" style="float:right;">
+
+  <img src="./cwtools_logo.png" style="height:100px; width:auto; float:right;">
   <h3 align="center">
     <a href="https://herrx2000.github.io/cwtools-vscode/getting-started" style="color:#FF0000;padding-right:50px">Get started</a>
     <a href="https://marketplace.visualstudio.com/items?itemName=tboby.cwtools-vscode" target="_blank">Download</a>
