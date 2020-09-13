@@ -1,5 +1,5 @@
 .Landing {
-    max-width: 840px;
+    max-width: 790px;
     background-color: #bfbfbf;
     min-height:200px;
     margin: 0 auto;
@@ -9,7 +9,7 @@
 .Header {
     position: relative;
     display: flex;
-    max-width: 840px;
+    max-width: 790px;
     margin: 0 auto;
 }
 
