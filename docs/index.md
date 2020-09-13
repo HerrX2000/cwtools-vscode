@@ -1,4 +1,4 @@
-<link rel="stylesheet" href="/assets/css/styles.css">
+<link itemprop="css" rel="stylesheet" href="/assets/css/styles.css">
 
 <div class="landing_page_banner">
   <img src="./cwtools_logo.png" class="logo">
@@ -10,6 +10,7 @@
   </h3>
 </div>
 <div style="margin-top:80px">
+</div>
 
 ## Features
 
@@ -58,4 +59,3 @@
 
 ![Find all references](./findallrefs.png)
 
-</div>
