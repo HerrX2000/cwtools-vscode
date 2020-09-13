@@ -1,4 +1,4 @@
-<div style="background-color: #bfbfbf;padding:10px;min-height:180px;">
+<div style="background-color: #bfbfbf;padding:10px;min-height:200px;">
   <img src="./cwtools_logo.png" style="height:180px; width:auto; float:right;">
 <h1> CW Tools </h1>
 <h3> Fun, productive, cleaner modding </h3>

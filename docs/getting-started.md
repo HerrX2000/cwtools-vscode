@@ -19,8 +19,8 @@
 insert image here
 
 ## Use the extension
-1. Install [the extension](https://marketplace.visualstudio.com/items?itemName=tboby.cwtools-vscode)
-  1. If on linux, possibly follow [these instructions](https://code.visualstudio.com/docs/setup/linux#_error-enospc)
+1. Install <a href="https://marketplace.visualstudio.com/items?itemName=tboby.cwtools-vscode" target="_blank">the extension</a>
+  1. If on linux, possibly follow ()<a href="https://code.visualstudio.com/docs/setup/linux#_error-enospc" target="_blank">these instructions</a>
   2. If on linux, install libcurl3
 2. a) Either open your mod folder directly
 2. b) or open the Game folder containing your mods. E.g. for Stellaris this can be one of:
