@@ -20,8 +20,8 @@
 }
 
 .Button.highlighted {
-    color:#00FFFF;
-    background-color:#FF0000;
+    color:#fff;
+    background-color:#a80202;
 }
 
 .Button.highlighted:hover {
