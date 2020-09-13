@@ -53,3 +53,7 @@
     height:auto;
     float:right;
 }
+
+.Spacer {
+    padding: inherit 5px;
+}
