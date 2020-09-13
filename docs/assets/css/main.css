@@ -8,6 +8,7 @@
 
 .Header {
     position: relative;
+    display: flex;
     max-width: 840px;
     margin: 0 auto;
 }
