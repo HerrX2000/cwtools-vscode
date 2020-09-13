@@ -1,4 +1,4 @@
-{% include ./navigation.html %}
+
 
 ## Install VS Code
 1. Download and install [VS Code](https://code.visualstudio.com/). VS Code is like Notepad++ but more powerful and almost as simple to use.
