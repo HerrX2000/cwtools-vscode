@@ -47,28 +47,28 @@
 
 ### Completion
 
-![Completion](./docs/completion.gif)
+![Completion](./completion.gif)
 
 ### Tooltips
 
-![Tooltips](./docs/tooltips.gif)
+![Tooltips](./tooltips.gif)
 
 ### Scope tooltips
 
-![Scope tooltips](./docs/scopetooltip.gif)
+![Scope tooltips](./scopetooltip.gif)
 
 ### Scope errors
 
-![Scope ](./docs/scopeerror.gif)
+![Scope ](./scopeerror.gif)
 
 ### Localisation error
 
-![Localisation error](./docs/localisationerror.gif)
+![Localisation error](./localisationerror.gif)
 
 ### Go to definition
 
-![Go to definition](./docs/gotodef.gif)
+![Go to definition](./gotodef.gif)
 
 ### Find all references
 
-![Find all references](./docs/findallrefs.png)
+![Find all references](./findallrefs.png)
