@@ -1,4 +1,4 @@
-{% ./include navigation.html %}
+{% include_relative ./navigation.html %}
 
 ## Supported games
 
