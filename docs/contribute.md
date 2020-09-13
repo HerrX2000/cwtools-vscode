@@ -1,4 +1,4 @@
-{% include_relative ./navigation.html %}
+{% include ./navigation.html %}
 
 # Contribute
 
