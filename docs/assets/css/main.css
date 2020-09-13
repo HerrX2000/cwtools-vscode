@@ -8,13 +8,15 @@
 
 .LandingContent {
     width: 100%;
-    max-width: 1190px;
+    max-width: 790px;
+    margin: 0 auto;
+    padding: 40px;
 }
 
 .Header {
     position: relative;
     display: flex;
-    max-width: 790px;
+    max-width: 1190px;
     margin: 0 auto;
 }
 
