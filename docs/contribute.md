@@ -1,19 +1,16 @@
-# [CWTools: Paradox Language Services](https://marketplace.visualstudio.com/items/tboby.cwtools-vscode)
-
-**Paradox Language Features for Visual Studio Code**
-
 <h3 align="center">
-  <a href="https://herrx2000.github.io/cwtools-vscode/getting-started">Start using CWTools</a>
-  <span> · </span>
-  <a href="https://herrx2000.github.io/cwtools-vscode/contribute">Help wanted!</a>
+  <a href="https://herrx2000.github.io/cwtools-vscode/getting-started" style="color:#FF0000;">Getting started</a>
   <span> · </span>
   <a href="https://herrx2000.github.io/cwtools-vscode/projects">Supported games</a>
   <span> · </span>
+  <a href="https://herrx2000.github.io/cwtools-vscode/contribute">Contribute</a>
+  <span> · </span>
   <a href="https://herrx2000.github.io/cwtools-vscode/community">Community</a>
+  <span> · </span>
+  <a href="https://marketplace.visualstudio.com/items?itemName=tboby.cwtools-vscode">Download</a>
 </h3>
 
-cwtools-ck3-config
-.cwt config files for Crusader Kings III
+CWTools is for the community by the community (mostly by Dayshine tho 😀). Supporting new games or updates are work with which you could help the community.
 
 To use these:
 1. Clone this repository to a filepath, e.g. D:\Git\cwtools-ck3-config. (or copy the contents of the zip you can download)
