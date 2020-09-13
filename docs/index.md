@@ -1,12 +1,11 @@
-<div style="background-color: #bfbfbf;padding:10px;">
-# CW Tools
-### Fun, productive, cleaner modding
-
-  <img src="./cwtools_logo.png" style="height:100px; width:auto; float:right;">
-  <h3 align="center">
-    <a href="https://herrx2000.github.io/cwtools-vscode/getting-started" style="color:#FF0000;padding-right:50px">Get started</a>
-    <a href="https://marketplace.visualstudio.com/items?itemName=tboby.cwtools-vscode" target="_blank">Download</a>
-  </h3>
+<div style="background-color: #bfbfbf;padding:10px;min-height:180px;">
+  <img src="./cwtools_logo.png" style="height:180px; width:auto; float:right;">
+<h1> CW Tools </h1>
+<h3> Fun, productive, cleaner modding </h3>
+<h3 align="center">
+  <a href="https://herrx2000.github.io/cwtools-vscode/getting-started" style="color:#FF0000;padding-right:50px">Get started</a>
+  <a href="https://marketplace.visualstudio.com/items?itemName=tboby.cwtools-vscode" target="_blank">Download</a>
+</h3>
 </div>
 <div style="height:200px"><hr></div>
 
