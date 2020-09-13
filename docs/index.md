@@ -1,12 +1,13 @@
 # CW Tools
 ### Fun, productive, cleaner modding
-
-<h3 align="center">
-  <a href="https://herrx2000.github.io/cwtools-vscode/getting-started" style="color:#FF0000;padding-right:50px">Get started</a>
-  <a href="https://marketplace.visualstudio.com/items?itemName=tboby.cwtools-vscode" target="_blank">Download</a>
-</h3>
-
-<div style="height:50%"><hr></div>
+<div>
+  <img src="./cwtools_logo" style="float:right;">
+  <h3 align="center">
+    <a href="https://herrx2000.github.io/cwtools-vscode/getting-started" style="color:#FF0000;padding-right:50px">Get started</a>
+    <a href="https://marketplace.visualstudio.com/items?itemName=tboby.cwtools-vscode" target="_blank">Download</a>
+  </h3>
+</div>
+<div style="height:200px"><hr></div>
 
 ## Features
 
