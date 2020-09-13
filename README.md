@@ -2,6 +2,8 @@
 
 **Paradox Language Features for Visual Studio Code**
 
+Visit our [website](https://herrx2000.github.io/cwtools-vscode/).
+
 ## Disclaimer
 
 This extension is still in preview, it may not work, it may stop working at any time.
