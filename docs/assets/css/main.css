@@ -21,7 +21,8 @@
 }
 
 .Button:hover {
-    color:#444444;
+    color: #adadad;
+    color: #444444;
 }
 
 .Button.highlighted {
@@ -30,7 +31,7 @@
 }
 
 .Button.highlighted:hover {
-    color:#000;
+    color:#a80202;
     background-color:#fff
 }
 
