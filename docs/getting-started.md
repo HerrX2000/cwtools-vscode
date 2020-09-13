@@ -1,5 +1,5 @@
 <h3 align="center">
-  <a href="https://herrx2000.github.io/cwtools-vscode/getting-started" style="color:#FF0000;">Getting started</a>
+  <a href="https://herrx2000.github.io/cwtools-vscode/getting-started" style="color:#FF0000;">Get started</a>
   <span> · </span>
   <a href="https://herrx2000.github.io/cwtools-vscode/projects">Supported games</a>
   <span> · </span>
@@ -15,8 +15,9 @@
 
 ## Install VS Code
 1. Download and install [VS Code](https://code.visualstudio.com/). VS Code is like Notepad++ but more powerful and almost as simple to use.
-2. Open your mod folder. *VS Code opens whole projects unlike NP++ which just opens files*
-insert image here
+2. Open your mod folder. *Hint: VS Code opens whole projects unlike NP++ which just opens files*
+
+-todo insert image here-
 
 ## Use the extension
 1. Install <a href="https://marketplace.visualstudio.com/items?itemName=tboby.cwtools-vscode" target="_blank">the extension</a>

@@ -1,5 +1,3 @@
 theme: jekyll-theme-slate
-title: CW Tools for VS Code
-description: Fun, productive, cleaner modding. A VS Code extension providing language server support for paradox script files using cwtools.
-github:
-  another_url: https://marketplace.visualstudio.com/items?itemName=tboby.cwtools-vscode
+title: CW Tools
+description: Fun, productive, cleaner modding. A VS Code extension providing support for paradox script files.

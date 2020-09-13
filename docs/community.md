@@ -1,5 +1,5 @@
 <h3 align="center">
-  <a href="https://herrx2000.github.io/cwtools-vscode/getting-started" style="color:#FF0000;">Getting started</a>
+  <a href="https://herrx2000.github.io/cwtools-vscode/getting-started" style="color:#FF0000;">Get started</a>
   <span> · </span>
   <a href="https://herrx2000.github.io/cwtools-vscode/projects">Supported games</a>
   <span> · </span>
@@ -16,3 +16,5 @@
 # Community
 
 Join us on the [CK3 Mod Coop](https://discord.gg/apEvxDZ) discord.
+
+<div style="height:400px"></div>
