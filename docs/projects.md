@@ -1,4 +1,6 @@
 # Supported games
+
+
 | Game                  | Status                     | Repo                                                                    |
 |-----------------------|----------------------------|-------------------------------------------------------------------------|
 | Crusader Kings III    | ⚠ in progress, help wanted | [ck3-config](https://github.com/cwtools/cwtools-ck3-config)             |
@@ -10,7 +12,9 @@
 | Victoria II           | ❕ partial                 | [vic2-config](https://github.com/cwtools/cwtools-vic2-config)           |
 
 ✔: Activly maintained but remember the extension is still in preview.
+
 ⚠: Work in progress, it may not work, it may stop working at any time.
+
 ❕: Basic support provided but not completed and not activly beeing worked on.
 
 
