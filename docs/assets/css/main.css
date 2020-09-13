@@ -1,9 +1,14 @@
 .Landing {
-    max-width: 790px;
+    width: 100%;
+    max-width: 1190px;
     background-color: #bfbfbf;
     min-height:200px;
     margin: 0 auto;
-    padding: 40px 200px 40px 200px;
+}
+
+.LandingContent {
+    width: 100%;
+    max-width: 1190px;
 }
 
 .Header {
