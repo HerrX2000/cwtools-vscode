@@ -1,3 +1,5 @@
+<link rel="stylesheet" href="/assets/css/styles.css">
+
 <div class="landing_page_banner">
   <img src="./cwtools_logo.png" class="logo">
   <h1> CW Tools </h1>
