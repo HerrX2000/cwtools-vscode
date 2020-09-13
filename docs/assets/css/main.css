@@ -6,6 +6,11 @@
     padding: 40px 200px 40px 200px;
 }
 
+.Header {
+    position: relative;
+    max-width: 840px;
+    margin: 0 auto;
+}
 
 
 .Button {
